@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Clean Linux
+Comment=Clean junk and cache files
+Exec=gnome-terminal -- bash -c "clean_linux; exec bash"
+Icon=utilities-terminal
+Terminal=true
+Categories=System;Utility;
+
