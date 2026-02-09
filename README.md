@@ -11,7 +11,7 @@ A simple and safe Linux cleanup utility.
 
 ## Install
 ```bash
-git clone https://github.com/yourname/clean_linux
+git clone https://github.com/artashsar045-lang/Clean_Linux-.git
 cd clean_linux
 chmod +x install.sh
 sudo ./install.sh
